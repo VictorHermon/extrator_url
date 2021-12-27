@@ -1,6 +1,6 @@
 import re  # RegEx
 
-endereco = 'Rua Jaguaré, 84, Jardim Laila, 06813170, Embu das Artes, SP'
+endereco = 'Rua Projetada, 797, Areião, 13872173, São João da Boa Vista, SP'
 
 # Ponto de interrogação depois do conjunto, indica que o conjunto pode aparecer ou não (?)
 # Quantificadores, entre chaves indica o numero de repeticoes de um conjunto, pode ter limite ou não {0,2}
